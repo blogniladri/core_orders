@@ -1,0 +1,14 @@
+/Users/niladri/workspace/dotnet-projects/order/order/bin/Debug/netcoreapp2.1/order.deps.json
+/Users/niladri/workspace/dotnet-projects/order/order/bin/Debug/netcoreapp2.1/order.runtimeconfig.json
+/Users/niladri/workspace/dotnet-projects/order/order/bin/Debug/netcoreapp2.1/order.runtimeconfig.dev.json
+/Users/niladri/workspace/dotnet-projects/order/order/bin/Debug/netcoreapp2.1/order.dll
+/Users/niladri/workspace/dotnet-projects/order/order/bin/Debug/netcoreapp2.1/order.pdb
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.csprojAssemblyReference.cache
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.csproj.CoreCompileInputs.cache
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.RazorAssemblyInfo.cache
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.RazorAssemblyInfo.cs
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.AssemblyInfoInputs.cache
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.AssemblyInfo.cs
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.RazorTargetAssemblyInfo.cache
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.dll
+/Users/niladri/workspace/dotnet-projects/order/order/obj/Debug/netcoreapp2.1/order.pdb
